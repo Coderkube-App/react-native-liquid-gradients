@@ -1,0 +1,42 @@
+{
+  "name": "react-native-liquid-gradients",
+  "version": "1.0.0",
+  "description": "A high-performance, GPU-accelerated, zero-dependency fluid animated mesh gradient background library for React Native and Expo.",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "liquid",
+    "gradient",
+    "mesh",
+    "mesh-gradient",
+    "shimmer",
+    "aura",
+    "animation",
+    "ui",
+    "pure-js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-native": "^0.72.8",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "typescript": "^5.9.3"
+  }
+}
