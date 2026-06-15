@@ -4,6 +4,12 @@ A premium, GPU-accelerated, zero-dependency fluid animated mesh gradient backgro
 
 Create stunning, floating "Stripe-like" or "Apple-like" dynamic neon mesh backgrounds with absolute ease. Every single color blob slides, breathes, and morphs in an organic, non-repeating pattern, rendering fluidly at a solid **60FPS** directly on the device hardware thread.
 
+## 🎬 Demo
+
+<p align="center">
+  <img src="./assets/cli_demo.svg" alt="react-native-liquid-gradients Demo" width="100%" style="max-width: 860px;" />
+</p>
+
 ---
 
 ## Features
